@@ -25,7 +25,7 @@
 > - Une echarpe en .obj texturée avec une texture de laine.
 
 > [!NOTE]
-> Ce code est conçu sur la base du [Tinyratracer](https://github.com/ssloy/tinyraytracer/tree/homework_assignment).
+> Ce code est conçu sur la base du [Tinyraytracer](https://github.com/ssloy/tinyraytracer/tree/homework_assignment).
 
 > [!TIP]
 > La taille de l'image de sortie peut être changée au début du fichier tinyratracer.cpp : l22 et l23 (720p de base).
